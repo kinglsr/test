@@ -1,3 +1,3 @@
 <?php
 
-echo "this is from master branch"
+echo "this is from feature branch"
